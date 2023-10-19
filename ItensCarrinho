@@ -1,0 +1,11 @@
+package av1POB;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class ItensCarrinho {
+	private int id;
+	private int qtd;
+	
+	
+}
